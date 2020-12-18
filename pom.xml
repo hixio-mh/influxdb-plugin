@@ -52,7 +52,7 @@ THE SOFTWARE.
         <spotbugs.failOnError>false</spotbugs.failOnError>
         <java.level>8</java.level>
         <hpi.compatibleSinceVersion>2.0</hpi.compatibleSinceVersion>
-        <slf4j.version>1.7.26</slf4j.version>
+        <slf4j.version>1.7.30</slf4j.version>
     </properties>
 
     <licenses>
